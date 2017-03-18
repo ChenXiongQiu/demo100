@@ -1,0 +1,29 @@
+* { box-sizing: border-box; }
+
+.employee-list {
+    background: lavender;
+    padding: 2rem 0.5rem;
+    border: 1px solid royalblue;
+    border-radius: 0.5rem;
+    max-width: 320px;
+}
+
+.employee {
+    list-style: none;
+}
+
+.employee + .employee {
+    padding-top: 0.5rem;
+}
+
+.employee:after {
+    content: '';
+    height: 0;
+    display: block;
+    clear: both;
+}
+
+.employee-photo {
+    float: left;
+    padding: 0 0.5rem 0.5rem 0;
+}
