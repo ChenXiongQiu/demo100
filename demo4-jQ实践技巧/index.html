@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--<link href="css/style.css" rel="stylesheet">-->
+        <style>
+            body {
+                position: relative;
+            }
+            .app {
+                height: 5000px;
+                width: 500xp;
+                background-color: palevioletred;
+                display: flex;
+                justify-content: center;
+                align-items: center;                
+            }
+            .app div {
+                width: 200px;
+                height: 200px;
+                background-color: #fff;
+            }
+            .top {
+                display: block;
+                height: 50px;
+                width: 50px;
+                background-color: green;
+                position: fixed;
+                left: 1200px;
+                top: 600px;
+            }
+        </style>
+    </head>
+    <body>
+    <div class="app">
+        hello World!!!!
+        <div>
+            
+        </div>
+    </div>
+ 
+    <a href="" class="top">返回顶部</a>
+
+    <script src="http://cdn.bootcss.com/jquery/3.2.0/jquery.min.js"></script>
+    <script>
+        $('a.top').click(function(e) {
+            e.preventDefault();
+            $(document.body).animate({scrollTop: 0},800);
+        });
+    </script>
+    </body>
+</html>
