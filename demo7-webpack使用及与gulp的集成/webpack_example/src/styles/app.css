@@ -1,0 +1,43 @@
+.app_container{
+    height: 100%;
+    background-color: #FFB951;
+}
+
+.app_header{
+    height: 8%;
+    background-color: skyblue;
+    display: flex;
+    align-items: center;
+}
+
+.app_header a{
+    flex: 1;
+    text-align: center;
+    color: white;
+}
+
+.app_header a:hover{
+    color: red;
+    font-weight: 700;
+}
+
+
+
+
+.app_content{
+    height: 84%;
+    background-color: hotpink;
+}
+
+.app_footer{
+    height: 8%;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+

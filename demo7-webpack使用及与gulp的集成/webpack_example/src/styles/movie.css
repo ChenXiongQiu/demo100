@@ -1,0 +1,48 @@
+.movie_container{
+    height: 100%;
+    background-color: #00B83F;
+    display: flex;
+}
+
+.movie_left{
+    min-width: 100px;
+    background-color: #9e157c;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.movie_left a{
+    color: white;
+    margin-top: 10px;
+}
+
+.movie_left a:hover{
+    color: red;
+    font-weight: 700;
+}
+
+
+.movie_right{
+    flex: 1;
+    background-color: orangered;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.movie_search{
+    height: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie_search input{
+    width: 80%;
+    border-radius: 5px 0 0 5px;
+}
+.movie_content{
+    height: 94%;
+    background-color: greenyellow;
+}

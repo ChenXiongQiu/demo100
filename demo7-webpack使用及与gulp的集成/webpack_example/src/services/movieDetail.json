@@ -1,0 +1,101 @@
+{
+  "rating": {
+    "max": 10,
+    "average": 6.1,
+    "stars": "30",
+    "min": 0
+  },
+  "reviews_count": 25,
+  "wish_count": 3082,
+  "douban_site": "",
+  "year": "2016",
+  "images": {
+    "small": "https://img1.doubanio.com/view/movie_poster_cover/ipst/public/p2394353738.jpg",
+    "large": "https://img1.doubanio.com/view/movie_poster_cover/lpst/public/p2394353738.jpg",
+    "medium": "https://img1.doubanio.com/view/movie_poster_cover/spst/public/p2394353738.jpg"
+  },
+  "alt": "https://movie.douban.com/subject/25847558/",
+  "id": "25847558",
+  "mobile_url": "https://movie.douban.com/subject/25847558/mobile",
+  "title": "邻家大贱谍",
+  "do_count": null,
+  "share_url": "https://m.douban.com/movie/subject/25847558",
+  "seasons_count": null,
+  "schedule_url": "",
+  "episodes_count": null,
+  "countries": [
+    "美国"
+  ],
+  "genres": [
+    "剧情",
+    "喜剧",
+    "动作"
+  ],
+  "collect_count": 8971,
+  "casts": [
+    {
+      "alt": "https://movie.douban.com/celebrity/1044996/",
+      "avatars": {
+        "small": "https://img1.doubanio.com/img/celebrity/small/1373894437.28.jpg",
+        "large": "https://img1.doubanio.com/img/celebrity/large/1373894437.28.jpg",
+        "medium": "https://img1.doubanio.com/img/celebrity/medium/1373894437.28.jpg"
+      },
+      "name": "盖尔·加朵",
+      "id": "1044996"
+    },
+    {
+      "alt": "https://movie.douban.com/celebrity/1041001/",
+      "avatars": {
+        "small": "https://img1.doubanio.com/img/celebrity/small/437.jpg",
+        "large": "https://img1.doubanio.com/img/celebrity/large/437.jpg",
+        "medium": "https://img1.doubanio.com/img/celebrity/medium/437.jpg"
+      },
+      "name": "艾拉·菲舍尔",
+      "id": "1041001"
+    },
+    {
+      "alt": "https://movie.douban.com/celebrity/1027137/",
+      "avatars": {
+        "small": "https://img1.doubanio.com/img/celebrity/small/1197.jpg",
+        "large": "https://img1.doubanio.com/img/celebrity/large/1197.jpg",
+        "medium": "https://img1.doubanio.com/img/celebrity/medium/1197.jpg"
+      },
+      "name": "扎克·加利凡纳基斯",
+      "id": "1027137"
+    },
+    {
+      "alt": "https://movie.douban.com/celebrity/1031817/",
+      "avatars": {
+        "small": "https://img3.doubanio.com/img/celebrity/small/50751.jpg",
+        "large": "https://img3.doubanio.com/img/celebrity/large/50751.jpg",
+        "medium": "https://img3.doubanio.com/img/celebrity/medium/50751.jpg"
+      },
+      "name": "乔恩·哈姆",
+      "id": "1031817"
+    }
+  ],
+  "current_season": null,
+  "original_title": "Keeping Up with the Joneses",
+  "summary": "杰夫（扎克·加利凡纳基斯 Zach Galifianakis 饰）与凯伦（艾拉·菲舍尔 Isla Fisher 饰）是一对住在城郊的夫妇，而他们发现新搬来的邻居并不简单。这对新搬来的夫妇蒂姆（乔恩·哈姆 Jon Hamm 饰）与娜塔莉（盖尔· 加朵 Gal Gadot 饰）过得可谓是光彩夺目，精致无比。而当他们发现琼斯夫妇实际上是秘密特工后，事情就变得更加复杂了。",
+  "subtype": "movie",
+  "directors": [
+    {
+      "alt": "https://movie.douban.com/celebrity/1274466/",
+      "avatars": {
+        "small": "https://img5.doubanio.com/img/celebrity/small/4286.jpg",
+        "large": "https://img5.doubanio.com/img/celebrity/large/4286.jpg",
+        "medium": "https://img5.doubanio.com/img/celebrity/medium/4286.jpg"
+      },
+      "name": "格雷格·莫托拉",
+      "id": "1274466"
+    }
+  ],
+  "comments_count": 3333,
+  "ratings_count": 8054,
+  "aka": [
+    "间谍大邻演(台)",
+    "两公婆决斗特务王(港)",
+    "向邻居看齐",
+    "与邻居同行"
+  ]
+}

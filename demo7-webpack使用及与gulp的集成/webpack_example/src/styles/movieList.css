@@ -1,0 +1,10 @@
+.movieList_container{
+    height: 100%;
+    overflow-y: scroll;
+    background-color: pink;
+}
+
+.movieList_item{
+    height: 100px;
+    display: flex;
+}
